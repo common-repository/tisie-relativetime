@@ -1,0 +1,83 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: [TiSiE] RelativeTime\n"
+"POT-Creation-Date: 2011-01-04 12:52+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#
+# Singular unit names
+#
+
+msgid "year"
+msgstr ""
+
+msgid "month"
+msgstr ""
+
+msgid "week"
+msgstr ""
+
+msgid "day"
+msgstr ""
+
+msgid "hour"
+msgstr ""
+
+msgid "minute"
+msgstr ""
+
+msgid "second"
+msgstr ""
+
+#
+# Plural unit names
+#
+
+msgid "years"
+msgstr ""
+
+msgid "months"
+msgstr ""
+
+msgid "weeks"
+msgstr ""
+
+msgid "days"
+msgstr ""
+
+msgid "hours"
+msgstr ""
+
+msgid "minutes"
+msgstr ""
+
+msgid "seconds"
+msgstr ""
+
+#
+# Other terms from the source code
+#
+
+#: functions.php:29
+msgid "The provided date must be in the format \"YYYY-MM-DD HH:II:SS\""
+msgstr ""
+
+#: functions.php:123
+msgid "The return value of a filter which filters \"tirt_get_array\" must be an array with the same keys as the input array"
+msgstr ""
+
+#: functions.php:162
+msgid "and"
+msgstr ""
+
+#: functions.php:166
+msgid "less than a second"
+msgstr ""
+
+

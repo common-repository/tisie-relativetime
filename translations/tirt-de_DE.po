@@ -1,0 +1,88 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: [TiSiE] Relative Time\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-01-04 12:52+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Mathias Gelhausen <scripting@tisie.de>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#
+# Singular unit names
+#
+msgid "year"
+msgstr "Jahr"
+
+msgid "month"
+msgstr "Monat"
+
+msgid "week"
+msgstr "Woche"
+
+msgid "day"
+msgstr "Tag"
+
+msgid "hour"
+msgstr "Stunde"
+
+msgid "minute"
+msgstr "Minute"
+
+msgid "second"
+msgstr "Sekunde"
+
+#
+# Plural unit names
+#
+msgid "years"
+msgstr "Jahren"
+
+msgid "months"
+msgstr "Monaten"
+
+msgid "weeks"
+msgstr "Wochen"
+
+msgid "days"
+msgstr "Tagen"
+
+msgid "hours"
+msgstr "Stunden"
+
+msgid "minutes"
+msgstr "Minuten"
+
+msgid "seconds"
+msgstr "Sekunden"
+
+#
+# Other terms from the source code
+#
+#: functions.php:29
+msgid "The provided date must be in the format \"YYYY-MM-DD HH:II:SS\""
+msgstr "Das Datum muss im Format \"YYYY-MM-DD HH:II:SS\" angegeben werden"
+
+#: functions.php:123
+msgid "The return value of a filter which filters \"tirt_get_array\" must be an array with the same keys as the input array"
+msgstr "Der Rückgabewert eines Filters, der \"tirt_get_array\" filtert, muss ein Array mit den selben Schlüsseln sein"
+
+#
+# Other terms from the source code
+#
+#: functions.php:162
+msgid "and"
+msgstr "und"
+
+#: functions.php:166
+msgid "less than a second"
+msgstr "weniger als einer Sekunde"
+
